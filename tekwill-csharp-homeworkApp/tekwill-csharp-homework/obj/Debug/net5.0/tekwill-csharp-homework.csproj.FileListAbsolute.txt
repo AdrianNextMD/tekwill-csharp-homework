@@ -1,0 +1,15 @@
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/bin/Debug/net5.0/tekwill-csharp-homework.deps.json
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/bin/Debug/net5.0/tekwill-csharp-homework.runtimeconfig.json
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/bin/Debug/net5.0/tekwill-csharp-homework.runtimeconfig.dev.json
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/bin/Debug/net5.0/tekwill-csharp-homework.dll
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/bin/Debug/net5.0/ref/tekwill-csharp-homework.dll
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/bin/Debug/net5.0/tekwill-csharp-homework.pdb
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/obj/Debug/net5.0/tekwill-csharp-homework.csprojAssemblyReference.cache
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/obj/Debug/net5.0/tekwill-csharp-homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/obj/Debug/net5.0/tekwill-csharp-homework.AssemblyInfoInputs.cache
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/obj/Debug/net5.0/tekwill-csharp-homework.AssemblyInfo.cs
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/obj/Debug/net5.0/tekwill-csharp-homework.csproj.CoreCompileInputs.cache
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/obj/Debug/net5.0/tekwill-csharp-homework.dll
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/obj/Debug/net5.0/ref/tekwill-csharp-homework.dll
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/obj/Debug/net5.0/tekwill-csharp-homework.pdb
+/Users/adrianpavaleanu/Desktop/tekwill-csharp-homework/tekwill-csharp-homeworkApp/tekwill-csharp-homework/obj/Debug/net5.0/tekwill-csharp-homework.genruntimeconfig.cache

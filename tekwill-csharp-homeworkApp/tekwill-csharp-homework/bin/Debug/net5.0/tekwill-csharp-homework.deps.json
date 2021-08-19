@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tekwill-csharp-homework/1.0.0": {
+        "runtime": {
+          "tekwill-csharp-homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tekwill-csharp-homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
